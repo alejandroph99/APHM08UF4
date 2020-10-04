@@ -12,15 +12,7 @@ and open the template in the editor.
     <body>
         <?php
 
-        function APHfuncion1() {
-            
-        }
-
-        function APHfuncion2() {
-            
-        }
-
-        function APHfuncion3() {
+        function APHfuncion1testconerror() {
             
         }
         ?>
