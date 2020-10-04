@@ -23,10 +23,6 @@ and open the template in the editor.
         function APHfuncion3() {
             
         }
-
-        function APH_especial() {
-            echo "Sin grupo";
-        }
         ?>
     </body>
 </html>
