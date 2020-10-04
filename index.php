@@ -12,11 +12,7 @@ and open the template in the editor.
     <body>
         <?php
 
-        function APHProbandoPushMerge3() {
-            
-        }
-
-        function APHProbandoPushMerge4() {
+        function APHProbandoPushError1() {
             
         }
         ?>
