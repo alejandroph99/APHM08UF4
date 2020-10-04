@@ -25,7 +25,7 @@ and open the template in the editor.
         }
 
         function APH_especial() {
-            echo "Alejandro Paniagua Haro";
+            echo "Sin grupo";
         }
         ?>
     </body>
