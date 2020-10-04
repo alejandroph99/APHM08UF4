@@ -19,6 +19,10 @@ and open the template in the editor.
         function APHfuncion2() {
             
         }
+
+        function APHfuncion3() {
+            
+        }
         ?>
     </body>
 </html>
